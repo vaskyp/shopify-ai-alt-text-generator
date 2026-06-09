@@ -12,7 +12,7 @@
 
 An AI-powered Shopify application designed to automate the generation, management, and optimization of product image alt text for accessibility and SEO.
 
-The platform integrates directly with Shopify, retrieves product images, analyzes visual content using Google's Gemini multimodal models, and generates high-quality alt text tailored to product categories, languages, and content requirements. It also provides bulk processing workflows, version recovery, and AI-assisted editing capabilities. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+The platform integrates directly with Shopify, retrieves product images, analyzes visual content using Google's Gemini multimodal models, and generates high-quality alt text tailored to product categories, languages, and content requirements. It also provides bulk processing workflows, version recovery, and AI-assisted editing capabilities.
 
 ---
 
@@ -62,7 +62,7 @@ The application connects directly to Shopify and retrieves:
 - Existing alt text
 - Product metadata
 
-Store operators can search and filter products using multiple criteria before generating alt text. :contentReference[oaicite:2]{index=2}
+Store operators can search and filter products using multiple criteria before generating alt text.
 
 ---
 
@@ -79,8 +79,7 @@ The AI evaluates:
 - Design characteristics
 - Product-specific visual details
 
-The image itself acts as the primary source of truth during generation. :contentReference[oaicite:3]{index=3}
-
+The image itself acts as the primary source of truth during generation.
 ---
 
 ### Context-Aware Alt Text Generation
@@ -96,7 +95,7 @@ The system combines:
 - Language selection
 - Desired text length
 
-This produces more accurate and SEO-friendly alt text. :contentReference[oaicite:4]{index=4}
+This produces more accurate and SEO-friendly alt text.
 
 ---
 
@@ -116,7 +115,7 @@ Supported category-specific logic includes:
 - Jewelry
 - Beauty products
 
-Each category receives customized instructions that improve description quality and consistency. :contentReference[oaicite:5]{index=5}
+Each category receives customized instructions that improve description quality and consistency.
 
 ---
 
@@ -133,7 +132,7 @@ Supported languages include:
 - Italian
 - Spanish
 
-The system can generate English descriptions and automatically translate them when required. :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}
+The system can generate English descriptions and automatically translate them when required.
 
 ---
 
@@ -147,7 +146,7 @@ Supported modes include:
 - Medium
 - Long
 
-This allows balancing accessibility requirements and SEO objectives. :contentReference[oaicite:8]{index=8}
+This allows balancing accessibility requirements and SEO objectives.
 
 ---
 
@@ -164,7 +163,7 @@ Features include:
 - Bulk save operations
 - Bulk revert operations
 
-These workflows significantly reduce manual effort for large catalogs. :contentReference[oaicite:9]{index=9}
+These workflows significantly reduce manual effort for large catalogs.
 
 ---
 
@@ -180,7 +179,7 @@ Users can:
 - Save selected results
 - Regenerate content when needed
 
-This maintains quality control while benefiting from automation. :contentReference[oaicite:10]{index=10}
+This maintains quality control while benefiting from automation.
 
 ---
 
@@ -195,7 +194,7 @@ Stored information includes:
 - Image identifiers
 - Product metadata
 
-Users can revert images back to their original state at any time. :contentReference[oaicite:11]{index=11}
+Users can revert images back to their original state at any time.
 
 ---
 
@@ -210,7 +209,7 @@ Supported workflows include:
 - Bulk product updates
 - Alt text restoration
 
-This keeps product media synchronized without manual editing inside Shopify. :contentReference[oaicite:12]{index=12}
+This keeps product media synchronized without manual editing inside Shopify.
 
 ---
 
@@ -345,7 +344,7 @@ Key optimizations include:
 - AI fallback workflows
 - Incremental image processing
 
-These mechanisms allow efficient processing of large product catalogs while minimizing API usage and generation costs. :contentReference[oaicite:13]{index=13}
+These mechanisms allow efficient processing of large product catalogs while minimizing API usage and generation costs.
 
 ---
 
